@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Fallback_Triggered__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Whether a fallback provider was used.</description>
+    <externalId>false</externalId>
+    <label>Fallback Triggered</label>
+    <required>false</required>
+    <type>Checkbox</type>
+</CustomField>
